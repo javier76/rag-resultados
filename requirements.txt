@@ -1,0 +1,13 @@
+# Dependencias de analisis_evaluacion.py
+#
+# El requirements.txt de la carpeta padre pertenece a otro proyecto (openai,
+# langchain, pinecone) y tiene todas sus lineas comentadas: no aplica aca.
+#
+# Segun el apartado 5 de instrucciones.md el script usa solo pandas y
+# matplotlib. Sin seaborn ni dependencias adicionales.
+#
+# Instalacion:  pip install -r requirements.txt
+# Ejecucion:    python3 analisis_evaluacion.py
+
+pandas==2.3.3
+matplotlib==3.10.9

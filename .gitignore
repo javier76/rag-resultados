@@ -1,0 +1,13 @@
+# Archivos generados por Python al importar analisis_evaluacion.py desde
+# preguntas_correctitud_baja.py.
+__pycache__/
+_referencia/
+
+*.pyc
+
+# Entornos virtuales locales.
+.venv/
+venv/
+
+# La carpeta salidas/ SÍ se versiona: conserva las figuras y tablas exactas que
+# se imprimieron en el capítulo.
